@@ -1,0 +1,22 @@
+{
+	"name": "Sophia LIbras - Vogal",
+	"version": "1.1.0",
+	"description": "Aprendendo de forma divertida e interativa, nosso jogo vai introduzir as crianças ao mundo das LIBRAS (Língua Brasileira de Sinais), com foco em letras e números! Uma maneira única de incentivar a comunicação e a inclusão desde o início. Vamos começar a aprender juntos!",
+	"id": "br.com.jacksonroberio.sophialibras",
+	"unique-id": "r3e228ahfl2",
+	"viewport-width": 480,
+	"viewport-height": 640,
+	"author": "Jackson Roberio",
+	"email": "sophialibras@jacksonroberio.com.br",
+	"website": "https://jacksonroberio.com.br",
+	"orientations": "portrait",
+	"c2version": "244",
+	"c3version": "r424.2",
+	"ife": true,
+	"used-plugins": [
+		"Sprite",
+		"Touch",
+		"Audio"
+	],
+	"used-behaviors": []
+}

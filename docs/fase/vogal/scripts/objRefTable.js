@@ -3,6 +3,7 @@ self.C3_GetObjectRefTable = function () {
 	return [
 		C3.Plugins.Sprite,
 		C3.Plugins.Touch,
+		C3.Plugins.Audio,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.Sprite.Cnds.CompareInstanceVar,
 		C3.Plugins.System.Acts.WaitForPreviousActions,
@@ -11,7 +12,9 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Cnds.CompareVar,
 		C3.Plugins.System.Acts.Wait,
 		C3.Plugins.Sprite.Acts.SetVisible,
-		C3.Plugins.System.Acts.SetVar
+		C3.Plugins.System.Acts.SetVar,
+		C3.Plugins.System.Cnds.Else,
+		C3.Plugins.Audio.Acts.Play
 	];
 };
 self.C3_JsPropNameTable = [
@@ -29,6 +32,7 @@ self.C3_JsPropNameTable = [
 	{O_Resposta: 0},
 	{U_Resposta: 0},
 	{Toque: 0},
+	{Áudio: 0},
 	{escolha1: 0},
 	{acertou: 0},
 	{letra: 0}
@@ -46,5 +50,6 @@ self.InstanceType = {
 	I_Resposta: class extends self.ISpriteInstance {},
 	O_Resposta: class extends self.ISpriteInstance {},
 	U_Resposta: class extends self.ISpriteInstance {},
-	Toque: class extends self.IInstance {}
+	Toque: class extends self.IInstance {},
+	Áudio: class extends self.IInstance {}
 }
