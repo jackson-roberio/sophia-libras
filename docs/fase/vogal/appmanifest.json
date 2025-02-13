@@ -1,0 +1,42 @@
+{
+	"name": "Sophia LIbras - Vogal",
+	"short_name": "Sophia LIbras - Vogal",
+	"description": "Aprendendo de forma divertida e interativa, nosso jogo vai introduzir as crianças ao mundo das LIBRAS (Língua Brasileira de Sinais), com foco em letras e números! Uma maneira única de incentivar a comunicação e a inclusão desde o início. Vamos começar a aprender juntos!",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "portrait",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "icons/icon-16.png",
+			"sizes": "16x16",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-32.png",
+			"sizes": "32x32",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-64.png",
+			"sizes": "64x64",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-128.png",
+			"sizes": "128x128",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-256.png",
+			"sizes": "256x256",
+			"type": "image/png"
+		},
+		{
+			"src": "icons/icon-512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	],
+	"screenshots": []
+}
