@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sophia Libras</string>
+    <!-- Dialogos da professora: de boas vindas -->
+    <string name="prof_dialogo_boas_vindas">OLÁ, SOU MARIA E SOU PROFESSORA DA SOPHIA, UMA GAROTINHA SURDA QUE ACABA DE CHEGAR NA ESCOLA! ELA SÓ SE COMUNICA ATRAVÉS DAS LIBRAS, VAMOS APRENDER UM POUQUINHO PARA PODEMOS SOCIALIZAR?</string>
+
+    <!-- Dialogo da professora: Informativo da tela Números  -->
+    <string name="prof_dialogo_informativo_numeros_1">AQUI VAMOS APRENDER OS NÚMEROS EM LIBRAS</string>
+    <string name="prof_dialogo_informativo_numeros_2">VOCÊ PODE TREINAR UM POUCO DANDO UMA OLHADA NO NOSSO MURAL OU IR DIRETO PARA O JOGO</string>
+
+    <!-- Dialogo da professora: Informativo da tela Vogal/Alfabeto  -->
+    <string name="prof_dialogo_informativo_alfabeto_1">AQUI VAMOS APRENDER AS LETRAS DO NOSSO ALFABETO EM LIBRAS.</string>
+    <string name="prof_dialogo_informativo_alfabeto_2">VOCÊ PODE TREINAR UM POUCO DANDO UMA OLHADA NO NOSSO MURAL OU IR DIRETO PARA O JOGO.</string>
+
+
+    <!-- Textos da tela Política de Privacidade -->
+    <string name="secao1_paragrafo1">Sophia Libras é um jogo educativo que requer a conexão com a internet para download dos componentes mínimos para execução correta, desta forma e para uma melhor experiência do jogo, cookies precisam ser armazenados no seu dispositivo.</string>
+    <string name="secao1_paragrafo2">O procedimento de captação de dados é feito totalmente de forma automatizada pelas plataformas envolvidas para seu pleno funcionamento, tais como o Google e o Construct 3, não nos responsabilizamos pelos dados captados por esses dois canais. Nós não salvamos nenhum dado do usuário em banco de dados ou/e na nuvem. Não conheceremos o seu endereço de IP, não podemos visualizar nenhum tipo de dado ou mensagem que você envie aos seus contatos, seu número telefônico, sua agenda, seu aplicativos instalados no seu dispositivo e nem solicitamos essas permissões durante o uso ou instalação do aplicativo. </string>
+    <string name="secao2_paragrafo1">Ao baixar/instalar o jogo, o usuário consente nas captações dos dados da SEÇÃO I.</string>
+    <string name="secao3_paragrafo1">Podemos divulgar informações estatística caso sejamos obrigados pela lei para fazê-lo ou se você violar nossos Termos de Serviço. Vale ressaltar que podemos iniciar a captação dos dados ausentes na SEÇÃO I, se esta for uma solicitação judicial.</string>
+    <string name="secao4_paragrafo1">No geral, O jogo pode ser oficialmente adquirido além da página oficial do desenvolvedor, nas seguintes plataformas: Google Play, Construct Arcade e Github, estas plataformas usados por nós irão apenas coletar, usar e divulgar suas informações na medida do necessário para permitir que eles realizem os serviços que eles precisam para execução plena deste jogo.</string>
+    <string name="secao4_paragrafo2">As plataformas têm suas próprias políticas de privacidade, para elas, recomendamos que você leia suas políticas de privacidade para que você possa entender a maneira na qual suas informações pessoais serão usadas por essas plataformas. Uma vez que você deixe a página oficial do jogo no site do desenvolvedor ou seja redirecionado para um aplicativo ou site de terceiros, você não será mais regido por essa Política de Privacidade.</string>
+    <string name="secao4_paragrafo3">Não somos responsáveis pelas práticas de privacidade de outros sites/plataformas e lhe incentivamos a ler as declarações de privacidade deles.</string>
+    <string name="secao5_paragrafo1">Reservamos o direito de modificar essa política de privacidade a qualquer momento, então por favor, revise-a com frequência.</string>
+    <string name="secao5_paragrafo2">Alterações e esclarecimentos vão surtir efeito imediatamente após sua publicação no site e versão atualizada do jogo. Se fizermos alterações de materiais para essa política, iremos notificá-lo aqui que eles foram atualizados, para que você tenha ciência sobre quais informações coletamos, como as usamos, e sob que circunstâncias, se alguma, usamos e/ou divulgamos elas.</string>
+    <string name="secao5_paragrafo3">Se o direito do jogo Sophia Libras for adquirido ou fundido com outra empresa, suas informações podem ser transferidas para os novos proprietários para que possamos continuar trazendo a melhor expediência no jogo para você.</string>
+
+</resources>
